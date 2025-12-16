@@ -502,7 +502,7 @@ body {
 
 /* background-image.css */
 body {
-    --background-image-url: url('');
+    --background-image-url: url('https://i.imgur.com/N7GYeTK.jpeg');
 }
 
 @property --background-image {
